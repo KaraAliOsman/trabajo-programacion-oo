@@ -116,7 +116,7 @@
             Controls.Add(lblNombreCrear);
             Margin = new Padding(3, 2, 3, 2);
             Name = "Form1";
-            Text = "Gestor de Personas SQLite (.NET 8)";
+             Text = "PROGRAMA";
             Load += Form1_Load;
             ((System.ComponentModel.ISupportInitialize)dataGridViewPersonas).EndInit();
             ResumeLayout(false);
